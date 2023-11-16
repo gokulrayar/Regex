@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\REGEX\REGEX\obj\Debug\REGEX.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\REGEX\REGEX\obj\Debug\REGEX.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\REGEX\REGEX\bin\Debug\REGEX.exe.config
+C:\Users\rayar\source\repos\REGEX\REGEX\bin\Debug\REGEX.exe
+C:\Users\rayar\source\repos\REGEX\REGEX\bin\Debug\REGEX.pdb
+C:\Users\rayar\source\repos\REGEX\REGEX\obj\Debug\REGEX.exe
+C:\Users\rayar\source\repos\REGEX\REGEX\obj\Debug\REGEX.pdb
